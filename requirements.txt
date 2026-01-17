@@ -1,0 +1,12 @@
+torch
+transformers
+biopython
+numpy
+pandas
+scikit-learn
+tensorflow
+streamlit
+plotly
+dash
+pyfaidx
+kipoiseq
